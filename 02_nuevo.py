@@ -1,2 +1,2 @@
-print("Ingrese nombre)
-input a
+a= input("Ingrese nombre")
+print = a
